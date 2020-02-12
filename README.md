@@ -15,6 +15,12 @@ The demo that we will be creating is a Solace IoT SCADA Demo. It shows how a ras
 
 ![](images/scada-architecture.png)
 
+### SolacePubSub+ Features Used
+- Multi-Protocol Pub/Sub
+- Multi-API
+- Topic filtering/routing
+- Eliding (future)
+- MQTT Retain (Future)
 
 ### Prerequisistes
 Hardware needed: 
