@@ -14,6 +14,8 @@ This is the demo that was presented during the MakeUofT Hackathon 2020 @ Univers
 The demo that we will be creating is a Solace IoT SCADA Demo. It shows how a raspberry PI can stream data from connected sensors into Solace PubSub+ Event Brokers. Once the event streams are available the demo uses Node-RED flows to consume the events and display the sensor data on a real-time, dynamic dashboard. 
 
 ![](images/scada-architecture.png)
+![](Event%20Flow.png)
+
 
 ### Solace PubSub+ Features Used
 - Multi-Protocol Pub/Sub
